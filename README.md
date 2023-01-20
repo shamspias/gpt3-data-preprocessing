@@ -13,7 +13,7 @@ You will need to have Python and pip installed on your machine. You will also ne
 - json
 You can install these packages by running the following command:
     ```
-    pip install pypdf2 python-docx nltk json
+    pip install pypdf2 python-docx nltk jsons
     ```
 ## Usage
 The code in this repository is meant to be used in a Jupyter notebook or any Python environment.
