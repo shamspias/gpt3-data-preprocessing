@@ -2,6 +2,7 @@ import PyPDF2
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import string
+import json
 
 # Open the PDF file
 with open('book.pdf', 'rb') as pdf_file:
