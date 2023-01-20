@@ -4,7 +4,7 @@ from nltk.corpus import stopwords
 import string
 import json
 
-# Read the CSV or Excel file
+# Read the Excel file
 df = pd.read_excel('articles.csv')
 text = " ".join(review for review in df.text)
 
