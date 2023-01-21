@@ -11,6 +11,7 @@ You will need to have Python and pip installed on your machine. You will also ne
 - python-docx
 - NLTK
 - Pandas
+
 You can install these packages by running the following command:
     ```
     pip install pypdf2 python-docx nltk pandas
