@@ -10,7 +10,7 @@ You will need to have Python and pip installed on your machine. You will also ne
 - PyPDF2
 - python-docx
 - NLTK
-- json
+- Pandas
 You can install these packages by running the following command:
     ```
     pip install pypdf2 python-docx nltk pandas
